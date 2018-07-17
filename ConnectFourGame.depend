@@ -1,0 +1,265 @@
+# depslib dependency file v1.0
+1511567825 source:c:\users\madhu\desktop\connectfourgame\alphabeta.cpp
+	<iostream>
+	"AlphaBeta.h"
+	"TreeNodes.h"
+	"ConnectFourBoard.h"
+
+1511567846 c:\users\madhu\desktop\connectfourgame\alphabeta.h
+	<iostream>
+	"TreeNodes.h"
+
+1511567980 c:\users\madhu\desktop\connectfourgame\treenodes.h
+	"ConnectFourBoard.h"
+	<iostream>
+
+1511567877 c:\users\madhu\desktop\connectfourgame\connectfourboard.h
+
+1511567862 source:c:\users\madhu\desktop\connectfourgame\connectfourboard.cpp
+	"ConnectFourBoard.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1511568050 source:c:\users\madhu\desktop\connectfourgame\main.cpp
+	<iostream>
+	<ctime>
+	"MinmaxAB.h"
+	"TreeNodes.h"
+	"ConnectFourBoard.h"
+	"AlphaBeta.h"
+
+1511567934 c:\users\madhu\desktop\connectfourgame\minmaxab.h
+	"TreeNodes.h"
+
+1511567917 source:c:\users\madhu\desktop\connectfourgame\minmaxab.cpp
+	<iostream>
+	"MinmaxAB.h"
+	"ConnectFourBoard.h"
+	"TreeNodes.h"
+
+1511567957 source:c:\users\madhu\desktop\connectfourgame\treenodes.cpp
+	"TreeNodes.h"
+	<cstdlib>
+	<ctime>
+
+1511747797 source:c:\users\madhu\desktop\proj2_a04735682a wrking-6 edited\alphabeta.cpp
+	<iostream>
+	"AlphaBeta.h"
+	"TreeNodes.h"
+	"ConnectFourBoard.h"
+
+1511746513 c:\users\madhu\desktop\proj2_a04735682a wrking-6 edited\alphabeta.h
+	<iostream>
+	"TreeNodes.h"
+
+1511746903 c:\users\madhu\desktop\proj2_a04735682a wrking-6 edited\treenodes.h
+	<iostream>
+	"ConnectFourBoard.h"
+
+1511743007 c:\users\madhu\desktop\proj2_a04735682a wrking-6 edited\connectfourboard.h
+
+1511743078 source:c:\users\madhu\desktop\proj2_a04735682a wrking-6 edited\connectfourboard.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"ConnectFourBoard.h"
+
+1511747838 source:c:\users\madhu\desktop\proj2_a04735682a wrking-6 edited\minmaxab.cpp
+	<iostream>
+	"MinmaxAB.h"
+	"ConnectFourBoard.h"
+	"TreeNodes.h"
+
+1511746343 c:\users\madhu\desktop\proj2_a04735682a wrking-6 edited\minmaxab.h
+	"TreeNodes.h"
+
+1511750035 source:c:\users\madhu\desktop\proj2_a04735682a wrking-6 edited\treenodes.cpp
+	<cstdlib>
+	<ctime>
+	"TreeNodes.h"
+
+1511749146 source:c:\users\madhu\desktop\proj2_a04735682a wrking-6 edited\main.cpp
+	<iostream>
+	<ctime>
+	"MinmaxAB.h"
+	"TreeNodes.h"
+	"ConnectFourBoard.h"
+	"AlphaBeta.h"
+
+1511747797 source:c:\users\madhu\desktop\proj2_a04735682\alphabeta.cpp
+	<iostream>
+	"AlphaBeta.h"
+	"TreeNodes.h"
+	"ConnectFourBoard.h"
+
+1511746513 c:\users\madhu\desktop\proj2_a04735682\alphabeta.h
+	<iostream>
+	"TreeNodes.h"
+
+1511746903 c:\users\madhu\desktop\proj2_a04735682\treenodes.h
+	<iostream>
+	"ConnectFourBoard.h"
+
+1511743007 c:\users\madhu\desktop\proj2_a04735682\connectfourboard.h
+
+1511743078 source:c:\users\madhu\desktop\proj2_a04735682\connectfourboard.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"ConnectFourBoard.h"
+
+1511797112 source:c:\users\madhu\desktop\proj2_a04735682\main.cpp
+	<iostream>
+	<ctime>
+	"MinmaxAB.h"
+	"TreeNodes.h"
+	"ConnectFourBoard.h"
+	"AlphaBeta.h"
+
+1511746343 c:\users\madhu\desktop\proj2_a04735682\minmaxab.h
+	"TreeNodes.h"
+
+1511747838 source:c:\users\madhu\desktop\proj2_a04735682\minmaxab.cpp
+	<iostream>
+	"MinmaxAB.h"
+	"ConnectFourBoard.h"
+	"TreeNodes.h"
+
+1511772199 source:c:\users\madhu\desktop\proj2_a04735682\treenodes.cpp
+	<cstdlib>
+	<ctime>
+	"TreeNodes.h"
+
+1511747797 source:c:\users\madhu\desktop\project2_a04735682\proj2_a04735682\alphabeta.cpp
+	<iostream>
+	"AlphaBeta.h"
+	"TreeNodes.h"
+	"ConnectFourBoard.h"
+
+1511746513 c:\users\madhu\desktop\project2_a04735682\proj2_a04735682\alphabeta.h
+	<iostream>
+	"TreeNodes.h"
+
+1511746903 c:\users\madhu\desktop\project2_a04735682\proj2_a04735682\treenodes.h
+	<iostream>
+	"ConnectFourBoard.h"
+
+1511743007 c:\users\madhu\desktop\project2_a04735682\proj2_a04735682\connectfourboard.h
+
+1511743078 source:c:\users\madhu\desktop\project2_a04735682\proj2_a04735682\connectfourboard.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"ConnectFourBoard.h"
+
+1511797112 source:c:\users\madhu\desktop\project2_a04735682\proj2_a04735682\main.cpp
+	<iostream>
+	<ctime>
+	"MinmaxAB.h"
+	"TreeNodes.h"
+	"ConnectFourBoard.h"
+	"AlphaBeta.h"
+
+1511746343 c:\users\madhu\desktop\project2_a04735682\proj2_a04735682\minmaxab.h
+	"TreeNodes.h"
+
+1511747838 source:c:\users\madhu\desktop\project2_a04735682\proj2_a04735682\minmaxab.cpp
+	<iostream>
+	"MinmaxAB.h"
+	"ConnectFourBoard.h"
+	"TreeNodes.h"
+
+1511772199 source:c:\users\madhu\desktop\project2_a04735682\proj2_a04735682\treenodes.cpp
+	<cstdlib>
+	<ctime>
+	"TreeNodes.h"
+
+1511747797 source:c:\users\madhu\desktop\project2_a04735682\project2_a04735682\alphabeta.cpp
+	<iostream>
+	"AlphaBeta.h"
+	"TreeNodes.h"
+	"ConnectFourBoard.h"
+
+1511746513 c:\users\madhu\desktop\project2_a04735682\project2_a04735682\alphabeta.h
+	<iostream>
+	"TreeNodes.h"
+
+1511746903 c:\users\madhu\desktop\project2_a04735682\project2_a04735682\treenodes.h
+	<iostream>
+	"ConnectFourBoard.h"
+
+1511743007 c:\users\madhu\desktop\project2_a04735682\project2_a04735682\connectfourboard.h
+
+1512528370 source:c:\users\madhu\desktop\project2_a04735682\project2_a04735682\connectfourboard.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"ConnectFourBoard.h"
+
+1512603635 source:c:\users\madhu\desktop\project2_a04735682\project2_a04735682\main.cpp
+	<iostream>
+	<ctime>
+	"MinmaxAB.h"
+	"TreeNodes.h"
+	"ConnectFourBoard.h"
+	"AlphaBeta.h"
+
+1511746343 c:\users\madhu\desktop\project2_a04735682\project2_a04735682\minmaxab.h
+	"TreeNodes.h"
+
+1512526417 source:c:\users\madhu\desktop\project2_a04735682\project2_a04735682\minmaxab.cpp
+	<iostream>
+	"MinmaxAB.h"
+	"ConnectFourBoard.h"
+	"TreeNodes.h"
+
+1512506770 source:c:\users\madhu\desktop\project2_a04735682\project2_a04735682\treenodes.cpp
+	<cstdlib>
+	<ctime>
+	"TreeNodes.h"
+
+1511747797 source:c:\users\madhu\desktop\fall 2\ai\mine\proj2_testing_copies\project2_a04735682\project2_a04735682\alphabeta.cpp
+	<iostream>
+	"AlphaBeta.h"
+	"TreeNodes.h"
+	"ConnectFourBoard.h"
+
+1511746513 c:\users\madhu\desktop\fall 2\ai\mine\proj2_testing_copies\project2_a04735682\project2_a04735682\alphabeta.h
+	<iostream>
+	"TreeNodes.h"
+
+1511746903 c:\users\madhu\desktop\fall 2\ai\mine\proj2_testing_copies\project2_a04735682\project2_a04735682\treenodes.h
+	<iostream>
+	"ConnectFourBoard.h"
+
+1511743007 c:\users\madhu\desktop\fall 2\ai\mine\proj2_testing_copies\project2_a04735682\project2_a04735682\connectfourboard.h
+
+1511743078 source:c:\users\madhu\desktop\fall 2\ai\mine\proj2_testing_copies\project2_a04735682\project2_a04735682\connectfourboard.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"ConnectFourBoard.h"
+
+1511797112 source:c:\users\madhu\desktop\fall 2\ai\mine\proj2_testing_copies\project2_a04735682\project2_a04735682\main.cpp
+	<iostream>
+	<ctime>
+	"MinmaxAB.h"
+	"TreeNodes.h"
+	"ConnectFourBoard.h"
+	"AlphaBeta.h"
+
+1511746343 c:\users\madhu\desktop\fall 2\ai\mine\proj2_testing_copies\project2_a04735682\project2_a04735682\minmaxab.h
+	"TreeNodes.h"
+
+1511747838 source:c:\users\madhu\desktop\fall 2\ai\mine\proj2_testing_copies\project2_a04735682\project2_a04735682\minmaxab.cpp
+	<iostream>
+	"MinmaxAB.h"
+	"ConnectFourBoard.h"
+	"TreeNodes.h"
+
+1512506770 source:c:\users\madhu\desktop\fall 2\ai\mine\proj2_testing_copies\project2_a04735682\project2_a04735682\treenodes.cpp
+	<cstdlib>
+	<ctime>
+	"TreeNodes.h"
+
